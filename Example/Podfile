@@ -1,6 +1,0 @@
-use_frameworks!
-target 'react-native-webview_Tests' do
-  pod 'react-native-webview', :path => '../'
-  
-  
-end
